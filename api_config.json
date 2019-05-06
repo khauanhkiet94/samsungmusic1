@@ -1,0 +1,77 @@
+
+{
+  "promo": [],
+  "adsParam": [
+    {
+      "status": 1,
+      "name": "first",
+      "value": "896886563806512_897433840418451",
+      "type": "1",
+      "enable": true,
+      "defaultParam": "second",
+      "packageName": "",
+      "timeShow": 20,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 20,
+      "timeAfterActive": 0
+    },
+    {
+      "status": 1,
+      "name": "first_out",
+      "value": "896886563806512_897433840418451",
+      "type": "1",
+      "enable": true,
+      "defaultParam": "second_out",
+      "packageName": "",
+      "timeShow": 90,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 10,
+      "timeAfterActive": 86400
+      
+    },
+     {
+      "status": 1,
+      "name": "second_out",
+      "value": "/21617015150/45420846/21810692995",
+      "type": "3",
+      "enable": true,
+      "defaultParam": "",
+      "packageName": "",
+      "timeShow": 10,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0
+    },
+    {
+      "status": 1,
+      "name": "second",
+      "value": "/21617015150/45420846/21810692995",
+      "type": "3",
+      "enable": true,
+      "defaultParam": "third",
+      "packageName": "",
+      "timeShow": 10,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0
+    },
+    {
+      "status": 1,
+      "name": "third",
+      "value": "91684abd",
+      "type": "4",
+      "enable": true,
+      "defaultParam": "fourth",
+      "packageName": "",
+      "timeShow": 10,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0
+    } 
+  ]
+}
