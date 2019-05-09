@@ -14,7 +14,7 @@
       "countShow": 0,
       "maxShowDay": 20,
       "timeAfterActive": 0,
-      "showApplovin": true
+      "showApplovin": false
     },
     {
       "status": 1,
@@ -29,7 +29,7 @@
       "countShow": 0,
       "maxShowDay": 10,
       "timeAfterActive": 86400,
-      "showApplovin": true
+      "showApplovin": false
     },
     {
       "status": 1,
